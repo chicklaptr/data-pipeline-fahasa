@@ -43,7 +43,7 @@ Each pipeline run is tracked using:
 4. Run pipeline:
    ```bash
    python start_pipeline.py
-    ```md
+   
 > Note: PostgreSQL runs inside Docker, so services must be started before initializing schema.
    
 ## Project Structure
