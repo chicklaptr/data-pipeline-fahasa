@@ -35,11 +35,14 @@ Each pipeline run is tracked using:
 ## Run the project
 
 1. Start services:
+    ```bash
    docker-compose up -d
 2. Initialize database:
    python init_schema.py
 3. Run pipeline:
    python start_pipeline.py
+   ```md
+> Note: PostgreSQL runs inside Docker, so services must be started before initializing schema.
    
 ## Project Structure
 
@@ -51,6 +54,15 @@ Each pipeline run is tracked using:
 - audit_utils.py          # Pipeline tracking
 - init_schema.py          # Database schema
 - dags/                   # Airflow DAGs
+
+![Pipeline](docs/pipeline.png)
+
+## Expected Result
+
+- Raw data stored in MinIO
+- Clean data loaded into PostgreSQL
+- product_snapshot only updates when data changes
+- Pipeline execution tracked in audit tables
 
 ## Future Improvements
 
