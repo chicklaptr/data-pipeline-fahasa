@@ -38,10 +38,12 @@ Each pipeline run is tracked using:
     ```bash
    docker-compose up -d
 2. Initialize database:
+   ```bash
    python init_schema.py
-3. Run pipeline:
+4. Run pipeline:
+   ```bash
    python start_pipeline.py
-   ```md
+    ```md
 > Note: PostgreSQL runs inside Docker, so services must be started before initializing schema.
    
 ## Project Structure
