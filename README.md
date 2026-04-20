@@ -57,7 +57,7 @@ Each pipeline run is tracked using:
 - init_schema.py          # Database schema
 - dags/                   # Airflow DAGs
 
-  \t  \t ![Pipeline](docs/pipeline.png)
+     ![Pipeline](docs/pipeline.png)
 
 ## Expected Result
 
