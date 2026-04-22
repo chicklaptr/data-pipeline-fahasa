@@ -1,0 +1,3539 @@
+[
+  {
+    "source_category_name": "Marketing - Bán Hàng",
+    "source_category_url": "https://www.fahasa.com//sach-trong-nuoc/kinh-te-chinh-tri-phap-ly.html",
+    "response_url": "https://www.fahasa.com/fahasa_catalog/product/loadCatalog?category_id=6028&currentPage=1&limit=24&order=num_orders&series_type=0",
+    "status": 200,
+    "headers": {
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "content-encoding": "br",
+      "cf-cache-status": "DYNAMIC",
+      "age": "0",
+      "speculation-rules": "\"/cdn-cgi/speculation\"",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cmY%2Fkef%2FKGPt4U6oXKylhXBGm39%2BP3sOEXyoXmKnrA6dETn3CuYb9VUJ3wA6WRargCNMlqt6EHXn53RLtNRuyjOF56zeR4CEfy9fHVGiINlK8ZguUzuW%2BNdfpEf4%2BGwI\"}]}",
+      "cf-ray": "9e5c826d2eb3033f-HKG",
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "server-timing": "cfExtPri",
+      "date": "Thu, 02 Apr 2026 02:47:32 GMT",
+      "content-type": "application/json; charset=UTF-8",
+      "server": "cloudflare",
+      "priority": "u=1,i",
+      "x-frame-options": "SAMEORIGIN"
+    },
+    "crawl_time": "2026-04-02T09:47:34.282157",
+    "body": {
+      "status": 1,
+      "message": "Success",
+      "parent_categories": [
+        {
+          "id": 2,
+          "name": "Tất Cả Nhóm Sản Phẩm",
+          "path": "/all-category.html",
+          "url": "/all-category.html"
+        },
+        {
+          "id": "4",
+          "name": "Sách tiếng Việt",
+          "path": "https://www.fahasa.com/sach-trong-nuoc.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc.html"
+        },
+        {
+          "id": "11",
+          "name": "Kinh Tế",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly.html"
+        }
+      ],
+      "category": {
+        "id": "6028",
+        "name": "Quản Trị - Lãnh Đạo",
+        "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/quan-tri-lanh-dao.html",
+        "title": "Tổng hợp sách Quản Trị - Lãnh Đạo tại Fahasa.com",
+        "description": "Tổng hợp sách Quản Trị - Lãnh Đạo tại Fahasa.com, với ưu đãi hàng ngày lên tới 50%, giao hàng miễn phí toàn quốc chỉ từ 250k.",
+        "keywords": "sách Quản Trị - Lãnh Đạo, SACH quản trị - lãnh Đạo, quản trị - lãnh Đạo"
+      },
+      "children_categories": [
+        {
+          "id": "6028",
+          "name": "Quản Trị - Lãnh Đạo",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/quan-tri-lanh-dao.html",
+          "count": "420",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/quan-tri-lanh-dao.html"
+        },
+        {
+          "id": "6029",
+          "name": "Nhân vật - Bài Học Kinh doanh",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-vat-bai-hoc-kinh-doanh.html",
+          "count": "398",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-vat-bai-hoc-kinh-doanh.html"
+        },
+        {
+          "id": "6031",
+          "name": "Marketing - Bán Hàng",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/marketing-ban-hang.html",
+          "count": "379",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/marketing-ban-hang.html"
+        },
+        {
+          "id": "6030",
+          "name": "Khởi Nghiệp - Làm Giàu",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/khoi-nghiep-lam-giau.html",
+          "count": "179",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/khoi-nghiep-lam-giau.html"
+        },
+        {
+          "id": "6034",
+          "name": "Phân Tích Kinh Tế",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/phan-tich-kinh-te.html",
+          "count": "146",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/phan-tich-kinh-te.html"
+        },
+        {
+          "id": "6036",
+          "name": "Chứng Khoán - Bất Động Sản -  Đầu Tư",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/chung-khoan-bat-dong-san-dau-tu.html",
+          "count": "80",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/chung-khoan-bat-dong-san-dau-tu.html"
+        },
+        {
+          "id": "6032",
+          "name": "Tài Chính - Ngân Hàng",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/tai-chinh-ngan-hang.html",
+          "count": "72",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/tai-chinh-ngan-hang.html"
+        },
+        {
+          "id": "6037",
+          "name": "Nhân Sự - Việc Làm",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-su-viec-lam.html",
+          "count": "26",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-su-viec-lam.html"
+        },
+        {
+          "id": "6033",
+          "name": "Kế Toán - Kiểm Toán - Thuế",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/ke-toan-kiem-toan-thue.html",
+          "count": "14",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/ke-toan-kiem-toan-thue.html"
+        }
+      ],
+      "attributes": [
+        {
+          "id": "81",
+          "code": "manufacturer",
+          "label": "Thương Hiệu",
+          "param": "thương-hiệu",
+          "options": [
+            {
+              "id": "1853",
+              "label": "OEM",
+              "selected": false,
+              "param": "oem",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "194",
+          "code": "supplier_list",
+          "label": "Nhà Cung Cấp",
+          "param": "nhà-cung-cấp",
+          "options": [
+            {
+              "id": "1227839",
+              "label": "Alpha Books",
+              "selected": false,
+              "param": "alpha-books",
+              "count": "45"
+            },
+            {
+              "id": "1229213",
+              "label": "Thái Hà",
+              "selected": false,
+              "param": "thái-hà",
+              "count": "19"
+            },
+            {
+              "id": "647138",
+              "label": "First News",
+              "selected": false,
+              "param": "first-news",
+              "count": "16"
+            },
+            {
+              "id": "1229295",
+              "label": "Viện Quản lý PACE",
+              "selected": false,
+              "param": "viện-quản-lý-pace",
+              "count": "16"
+            },
+            {
+              "id": "1228642",
+              "label": "Cty Văn Hóa Văn Lang",
+              "selected": false,
+              "param": "cty-văn-hóa-văn-lang",
+              "count": "15"
+            },
+            {
+              "id": "1229126",
+              "label": "NXB Trẻ",
+              "selected": false,
+              "param": "nxb-trẻ",
+              "count": "13"
+            },
+            {
+              "id": "1229193",
+              "label": "Saigon Books",
+              "selected": false,
+              "param": "saigon-books",
+              "count": "13"
+            },
+            {
+              "id": "1227833",
+              "label": "1980 Books",
+              "selected": false,
+              "param": "1980-books",
+              "count": "10"
+            },
+            {
+              "id": "647135",
+              "label": "Tân Việt",
+              "selected": false,
+              "param": "tân-việt",
+              "count": "9"
+            },
+            {
+              "id": "317856",
+              "label": "Minh Long",
+              "selected": false,
+              "param": "minh-long",
+              "count": "5"
+            },
+            {
+              "id": "1229136",
+              "label": "Panda Books",
+              "selected": false,
+              "param": "panda-books",
+              "count": "5"
+            },
+            {
+              "id": "1229069",
+              "label": "Nhà Sách Minh Thắng",
+              "selected": false,
+              "param": "nhà-sách-minh-thắng",
+              "count": "4"
+            },
+            {
+              "id": "1229124",
+              "label": "NXB Tổng Hợp TPHCM",
+              "selected": false,
+              "param": "nxb-tổng-hợp-tphcm",
+              "count": "4"
+            },
+            {
+              "id": "1228062",
+              "label": "CÔNG TY TNHH PHÁT HÀNH S BOOKS",
+              "selected": false,
+              "param": "công-ty-tnhh-phát-hành-s-books",
+              "count": "3"
+            },
+            {
+              "id": "1229326",
+              "label": "ZenBooks",
+              "selected": false,
+              "param": "zenbooks",
+              "count": "3"
+            },
+            {
+              "id": "1228013",
+              "label": "Công ty TNHH Ecoblader",
+              "selected": false,
+              "param": "công-ty-tnhh-ecoblader",
+              "count": "2"
+            },
+            {
+              "id": "897890",
+              "label": "Nhã Nam",
+              "selected": false,
+              "param": "nhã-nam",
+              "count": "2"
+            },
+            {
+              "id": "1229177",
+              "label": "Phụ Nữ",
+              "selected": false,
+              "param": "phụ-nữ",
+              "count": "2"
+            },
+            {
+              "id": "1229353",
+              "label": "Đông A",
+              "selected": false,
+              "param": "đông-a",
+              "count": "2"
+            },
+            {
+              "id": "1227894",
+              "label": "Cengage",
+              "selected": false,
+              "param": "cengage",
+              "count": "1"
+            },
+            {
+              "id": "1230216",
+              "label": "CÔNG TY TNHH FINFIN",
+              "selected": false,
+              "param": "công-ty-tnhh-finfin",
+              "count": "1"
+            },
+            {
+              "id": "1228360",
+              "label": "Cty Nhân Trí Việt",
+              "selected": false,
+              "param": "cty-nhân-trí-việt",
+              "count": "1"
+            },
+            {
+              "id": "1228442",
+              "label": "Cty Sách Dân Trí",
+              "selected": false,
+              "param": "cty-sách-dân-trí",
+              "count": "1"
+            },
+            {
+              "id": "1228630",
+              "label": "Cty Văn Hóa Nhân Văn",
+              "selected": false,
+              "param": "cty-văn-hóa-nhân-văn",
+              "count": "1"
+            },
+            {
+              "id": "316760",
+              "label": "MCBooks",
+              "selected": false,
+              "param": "mcbooks",
+              "count": "1"
+            },
+            {
+              "id": "1229191",
+              "label": "Rio Book",
+              "selected": false,
+              "param": "rio-book",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "203",
+          "code": "noi_san_xuat",
+          "label": "Nơi Gia Công & Sản Xuất",
+          "param": "nơi-gia-công-&-sản-xuất",
+          "options": [
+            {
+              "id": "332124",
+              "label": "Trung Quốc",
+              "selected": false,
+              "param": "trung-quốc",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "code": "origin",
+          "label": "Xuất Xứ Thương Hiệu",
+          "param": "xuất-xứ-thương-hiệu",
+          "options": [
+            {
+              "id": "20",
+              "label": "Trung Quốc",
+              "selected": false,
+              "param": "trung-quốc",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "code": "color",
+          "label": "Màu sắc",
+          "param": "màu-sắc",
+          "options": [
+            {
+              "id": "30",
+              "label": "Đen",
+              "selected": false,
+              "param": "đen",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "204",
+          "code": "languages",
+          "label": "Ngôn Ngữ",
+          "param": "ngôn-ngữ",
+          "options": [
+            {
+              "id": "449750",
+              "label": "Tiếng Việt",
+              "selected": false,
+              "param": "tiếng-việt",
+              "count": "169"
+            },
+            {
+              "id": "449748",
+              "label": "Tiếng Trung",
+              "selected": false,
+              "param": "tiếng-trung",
+              "count": "2"
+            }
+          ]
+        },
+        {
+          "id": "140",
+          "code": "book_layout",
+          "label": "Hình thức",
+          "param": "hình-thức",
+          "options": [
+            {
+              "id": "9",
+              "label": "Bìa Mềm",
+              "selected": false,
+              "param": "bìa-mềm",
+              "count": "388"
+            },
+            {
+              "id": "126",
+              "label": "Bìa Cứng",
+              "selected": false,
+              "param": "bìa-cứng",
+              "count": "27"
+            },
+            {
+              "id": "1840",
+              "label": "Bộ Hộp",
+              "selected": false,
+              "param": "bộ-hộp",
+              "count": "3"
+            },
+            {
+              "id": "137",
+              "label": "Cards",
+              "selected": false,
+              "param": "cards",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "267",
+          "code": "model",
+          "label": "Mẫu mã",
+          "param": "mẫu-mã",
+          "options": [
+            {
+              "id": "1244996",
+              "label": "Thực Chiến",
+              "selected": false,
+              "param": "thực-chiến",
+              "count": "3"
+            },
+            {
+              "id": "1245131",
+              "label": "Chiến Lược",
+              "selected": false,
+              "param": "chiến-lược",
+              "count": "2"
+            },
+            {
+              "id": "1245222",
+              "label": "Quản Trị",
+              "selected": false,
+              "param": "quản-trị",
+              "count": "2"
+            },
+            {
+              "id": "1245023",
+              "label": "Tiềm Thức",
+              "selected": false,
+              "param": "tiềm-thức",
+              "count": "2"
+            },
+            {
+              "id": "1247321",
+              "label": "Trong Doanh Nghiệp",
+              "selected": false,
+              "param": "trong-doanh-nghiệp",
+              "count": "2"
+            },
+            {
+              "id": "1231257",
+              "label": "AI Công Cụ",
+              "selected": false,
+              "param": "ai-công-cụ",
+              "count": "1"
+            },
+            {
+              "id": "1246283",
+              "label": "Bản Đầy Đủ",
+              "selected": false,
+              "param": "bản-đầy-đủ",
+              "count": "1"
+            },
+            {
+              "id": "1246009",
+              "label": "Cẩm Nang Lãnh Đạo",
+              "selected": false,
+              "param": "cẩm-nang-lãnh-đạo",
+              "count": "1"
+            },
+            {
+              "id": "1246013",
+              "label": "Chiến Lược KD",
+              "selected": false,
+              "param": "chiến-lược-kd",
+              "count": "1"
+            },
+            {
+              "id": "1245129",
+              "label": "Công Cụ",
+              "selected": false,
+              "param": "công-cụ",
+              "count": "1"
+            },
+            {
+              "id": "1233399",
+              "label": "Công Nghệ",
+              "selected": false,
+              "param": "công-nghệ",
+              "count": "1"
+            },
+            {
+              "id": "1246131",
+              "label": "Công Ty Hiện Đại",
+              "selected": false,
+              "param": "công-ty-hiện-đại",
+              "count": "1"
+            },
+            {
+              "id": "1247450",
+              "label": "Cộng Đồng Trực Tuyến",
+              "selected": false,
+              "param": "cộng-đồng-trực-tuyến",
+              "count": "1"
+            },
+            {
+              "id": "1247062",
+              "label": "Dẫn Đầu",
+              "selected": false,
+              "param": "dẫn-đầu",
+              "count": "1"
+            },
+            {
+              "id": "1247451",
+              "label": "Dịch Vụ",
+              "selected": false,
+              "param": "dịch-vụ",
+              "count": "1"
+            },
+            {
+              "id": "1246132",
+              "label": "DN Vừa Và Nhỏ",
+              "selected": false,
+              "param": "dn-vừa-và-nhỏ",
+              "count": "1"
+            },
+            {
+              "id": "1246155",
+              "label": "Doanh Nghiệp Bất Bại",
+              "selected": false,
+              "param": "doanh-nghiệp-bất-bại",
+              "count": "1"
+            },
+            {
+              "id": "1245218",
+              "label": "Dụng Người",
+              "selected": false,
+              "param": "dụng-người",
+              "count": "1"
+            },
+            {
+              "id": "1245327",
+              "label": "Duy Trì Phong Độ",
+              "selected": false,
+              "param": "duy-trì-phong-độ",
+              "count": "1"
+            },
+            {
+              "id": "1245228",
+              "label": "Kẻ Thực Dụng",
+              "selected": false,
+              "param": "kẻ-thực-dụng",
+              "count": "1"
+            }
+          ]
+        }
+      ],
+      "price_range": {
+        "min": 0,
+        "max": 999999999,
+        "price_range": {
+          "min": 0,
+          "max": 999999999
+        }
+      },
+      "total_products": 420,
+      "product_list": [
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "369493",
+          "product_name": "Bí Mật Tư Duy Triệu Phú (Tái Bản 2021)",
+          "product_finalprice": "78.840",
+          "product_price": "108.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/bi-mat-tu-duy-trieu-phu-tai-ban-2021.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_188995_1_1.jpg",
+          "discount": 27,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">27%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "443356",
+          "product_name": "MBA Bằng Hình - The Visual MBA",
+          "product_finalprice": "151.000",
+          "product_price": "189.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/mba-bang-hinh-the-visual-mba.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235238978.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "679296",
+          "product_name": "12 Nguyên Tắc Quản Trị Kinh Doanh Của Inamori",
+          "product_finalprice": "83.000",
+          "product_price": "110.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/12-nguyen-tac-quan-tri-kinh-doanh-cua-inamori.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934974209386.jpg",
+          "discount": 24,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">24%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "570003",
+          "product_name": "Dẫn Dắt Một Bầy Sói Hay Chăn Một Đàn Cừu",
+          "product_finalprice": "156.000",
+          "product_price": "195.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dan-dat-mot-bay-soi-hay-chan-mot-dan-cuu.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936066699594.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "651889",
+          "product_name": "Ứng Dụng AI Vào Doanh Nghiệp - Những Bài Giảng Của Giáo Tiến Về Nhân Tố Thay Đổi Cuộc Chơi Trong Kỉ Nguyên Mới",
+          "product_finalprice": "216.000",
+          "product_price": "286.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/ung-dung-ai-vao-doanh-nghiep-nhung-bai-giang-cua-giao-tien-ve-nhan-to-thay-doi-cuoc-choi-trong-ki-nguyen-moi.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/_/n/_ng-d_ng-ai-v_o-doanh-nghi_p_9.jpg",
+          "discount": 24,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">24%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "679779",
+          "product_name": "Thương Lượng Không Nhân Nhượng - Bí Quyết Giành Lợi Thế Trong Mọi Cuộc Đàm Phán - Getting To Yes (Tái Bản 2025)",
+          "product_finalprice": "97.000",
+          "product_price": "149.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/thuong-luong-khong-nhan-nhuong-bi-quyet-gianh-loi-the-trong-moi-cuoc-dam-phan-getting-to-yes-tai-ban-2025.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a---th_ng-l_ng-kh_ng-nh_n-nh_ng.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "341521",
+          "product_name": "Blue Ocean Strategy - Chiến Lược Đại Dương Xanh (Bìa Cứng)",
+          "product_finalprice": "179.250",
+          "product_price": "239.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/blue-ocean-strategy-chien-luoc-dai-duong-xanh-bia-cung.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_219967.jpg",
+          "discount": 25,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">25%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "879981",
+          "product_name": "Right To Win - \"Cửa Thắng\" Của Nông Nghiệp Việt - Cách Thức Agris Và Betrimex Tham Gia Chuỗi Cung Ứng Toàn Cầu",
+          "product_finalprice": "245.000",
+          "product_price": "350.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/right-to-win-cua-thang-cua-nong-nghiep-viet-cach-thuc-agris-va-betrimex-tham-gia-chuoi-cung-ung-toan-cau.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/r/i/right-to-win-cua-thang-cua-nong-nghiep-viet---1.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "775779",
+          "product_name": "ESG Quan Trọng Nhưng Không Đặc Biệt Hơn",
+          "product_finalprice": "266.000",
+          "product_price": "380.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": null,
+          "product_url": "https://www.fahasa.com/esg-quan-trong-nhung-khong-dac-biet-hon.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786326030686.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "303343",
+          "product_name": "D. Trump - Nghệ Thuật Đàm Phán (Tái Bản 2020)",
+          "product_finalprice": "82.000",
+          "product_price": "109.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/d-trump-nghe-thuat-dam-phan-tai-ban-2020.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_49918.jpg",
+          "discount": 24,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">24%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "308215",
+          "product_name": "Vị Tu Sĩ Bán Chiếc Ferrari (Tái Bản Từ Cuốn Tìm Về Sức Mạnh Vô Biên) - Tái Bản 2020",
+          "product_finalprice": "71.540",
+          "product_price": "98.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": null,
+          "product_url": "https://www.fahasa.com/vi-tu-si-ban-chiec-ferrari-tb2020.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_55840.jpg",
+          "discount": 27,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">27%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "462239",
+          "product_name": "Quản Trị Bằng Văn Hóa - Cách Thức Kiến Tạo Và Tái Tạo Văn Hóa Tổ Chức",
+          "product_finalprice": "163.000",
+          "product_price": "250.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/quan-tri-bang-van-hoa.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935280401068.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "275614",
+          "product_name": "Một Đời Quản Trị (Tái Bản 2019)",
+          "product_finalprice": "170.000",
+          "product_price": "200.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:87%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star active'></div><div class='rating-links'>4.4</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/mot-doi-quan-tri-tai-ban-2019.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934974164623.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "427544",
+          "product_name": "Lãnh Đạo Tỉnh Thức - The Mindful Leader (Tái Bản 2023)",
+          "product_finalprice": "88.000",
+          "product_price": "135.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/lanh-dao-tinh-thuc-the-mindful-leader-2023.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935280400917.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "554266",
+          "product_name": "Good Strategy Bad Strategy - Chiến Lược Tốt Và Chiến Lược Tồi - Giã Từ Những Ý Niệm Viển Vông Và Định Nghĩa Lại Về Chiến Lược",
+          "product_finalprice": "142.000",
+          "product_price": "219.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/good-strategy-bad-strategy-chien-luoc-tot-va-chien-luoc-toi-gia-tu-nhung-y-niem-vien-vong-va-dinh-nghia-lai-ve-chien-luoc.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935251421491.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "985163",
+          "product_name": "Văn Hóa Quản Trị Chất Việt - Từ Kiên Cường Tới Thịnh Vượng",
+          "product_finalprice": "172.000",
+          "product_price": "215.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": null,
+          "product_url": "https://www.fahasa.com/van-hoa-quan-tri-chat-viet-tu-kien-cuong-toi-thinh-vuong.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936219420723.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "438179",
+          "product_name": "4 Nguyên Tắc Thực Thi - Giới Thiệu Công Nghệ Triển Khai Chiến Lược Từ Franklin Covey - Bìa Cứng (Tái Bản 2023)",
+          "product_finalprice": "164.000",
+          "product_price": "205.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/4-nguyen-tac-thuc-thi-p-a-c-e-2023.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935280400955.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "644540",
+          "product_name": "13 Bài Giảng Của Giáo Tiến Về Quản Trị Và Lãnh Đạo",
+          "product_finalprice": "228.800",
+          "product_price": "286.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/13-bai-giang-cua-giao-tien-ve-quan-tri-va-lanh-dao.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935251422481.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "598047",
+          "product_name": "The Speed Of Trust - Sức Mạnh Của Niềm Tin",
+          "product_finalprice": "146.000",
+          "product_price": "225.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/the-speed-of-trust-suc-manh-cua-niem-tin.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/s/u/suc-manh-cua-niem-tin_bia1.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "337750",
+          "product_name": "Lãnh Đạo Và Văn Hóa Doanh Nghiệp",
+          "product_finalprice": "99.000",
+          "product_price": "180.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/lanh-dao-va-van-hoa-doanh-nghiep.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_217895.jpg",
+          "discount": 45,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">45%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "388524",
+          "product_name": "Vị Giám Đốc Một Phút",
+          "product_finalprice": "42.340",
+          "product_price": "58.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/vi-giam-doc-mot-phut-388524.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/3/z3171678206749_70bec29051b87bfc03da1e8d0d064542.jpg",
+          "discount": 27,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">27%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1038969",
+          "product_name": "Quản Trị Chiến Lược Thực Chiến (Tái Bản 2026)",
+          "product_finalprice": "408.000",
+          "product_price": "480.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/quan-tri-chien-luoc-thuc-chien-tai-ban-2026.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/q/u/quan-tri-chien-luoc-thuc-chien_16x22.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1039545",
+          "product_name": "AI Roadmap - Lộ Trình Ứng Dụng AI Toàn Diện Cho Doanh Nghiệp",
+          "product_finalprice": "168.500",
+          "product_price": "225.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/ai-roadmap-lo-trinh-ung-dung-ai-toan-dien-cho-doanh-nghiep.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786044257099.jpg",
+          "discount": 25,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">25%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "242704",
+          "product_name": "Lãnh Đạo Bằng Sức Mạnh Trí Tuệ Cảm Xúc",
+          "product_finalprice": "104.000",
+          "product_price": "148.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:100%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star active'></div><div class='rating-links'>5.0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/lanh-dao-bang-suc-manh-tri-tue-cam-xuc.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_187003.jpg",
+          "discount": 29,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">29%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        }
+      ],
+      "noofpages": 18
+    }
+  },
+  {
+    "source_category_name": "Kỹ Năng Sống",
+    "source_category_url": "https://www.fahasa.com//sach-trong-nuoc/kinh-te-chinh-tri-phap-ly.html",
+    "response_url": "https://www.fahasa.com/fahasa_catalog/product/loadCatalog?category_id=6034&currentPage=1&limit=24&order=num_orders&series_type=0",
+    "status": 200,
+    "headers": {
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "content-encoding": "br",
+      "cf-cache-status": "DYNAMIC",
+      "age": "0",
+      "speculation-rules": "\"/cdn-cgi/speculation\"",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=gG7b38zWurva%2FEolI9Jidgl%2FQcvrvfUgZvA41nul9zEF%2Fd%2BX1fHC%2BlmTxwTxY7tWeW6bnfPzsOX%2Bixhq%2BQPAUe9ri2NI5Sp2aDT8nI%2FMjtaViWVp2%2FcBW6KJuunvl9O8\"}]}",
+      "cf-ray": "9e5c82ec5af2033f-HKG",
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "server-timing": "cfExtPri",
+      "date": "Thu, 02 Apr 2026 02:47:53 GMT",
+      "content-type": "application/json; charset=UTF-8",
+      "server": "cloudflare",
+      "priority": "u=1,i",
+      "x-frame-options": "SAMEORIGIN"
+    },
+    "crawl_time": "2026-04-02T09:47:54.538573",
+    "body": {
+      "status": 1,
+      "message": "Success",
+      "parent_categories": [
+        {
+          "id": 2,
+          "name": "Tất Cả Nhóm Sản Phẩm",
+          "path": "/all-category.html",
+          "url": "/all-category.html"
+        },
+        {
+          "id": "4",
+          "name": "Sách tiếng Việt",
+          "path": "https://www.fahasa.com/sach-trong-nuoc.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc.html"
+        },
+        {
+          "id": "11",
+          "name": "Kinh Tế",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly.html"
+        }
+      ],
+      "category": {
+        "id": "6034",
+        "name": "Phân Tích Kinh Tế",
+        "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/phan-tich-kinh-te.html",
+        "title": "Tổng hợp sách Phân Tích Kinh Tế tại Fahasa.com",
+        "description": "Tổng hợp sách Phân Tích Kinh Tế tại Fahasa.com, với ưu đãi hàng ngày lên tới 50%, giao hàng miễn phí toàn quốc chỉ từ 250k.",
+        "keywords": "sách Phân Tích Kinh Tế, SACH phân tích kinh tế, phân tích kinh tế"
+      },
+      "children_categories": [
+        {
+          "id": "6028",
+          "name": "Quản Trị - Lãnh Đạo",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/quan-tri-lanh-dao.html",
+          "count": "420",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/quan-tri-lanh-dao.html"
+        },
+        {
+          "id": "6029",
+          "name": "Nhân vật - Bài Học Kinh doanh",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-vat-bai-hoc-kinh-doanh.html",
+          "count": "398",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-vat-bai-hoc-kinh-doanh.html"
+        },
+        {
+          "id": "6031",
+          "name": "Marketing - Bán Hàng",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/marketing-ban-hang.html",
+          "count": "379",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/marketing-ban-hang.html"
+        },
+        {
+          "id": "6030",
+          "name": "Khởi Nghiệp - Làm Giàu",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/khoi-nghiep-lam-giau.html",
+          "count": "179",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/khoi-nghiep-lam-giau.html"
+        },
+        {
+          "id": "6034",
+          "name": "Phân Tích Kinh Tế",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/phan-tich-kinh-te.html",
+          "count": "146",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/phan-tich-kinh-te.html"
+        },
+        {
+          "id": "6036",
+          "name": "Chứng Khoán - Bất Động Sản -  Đầu Tư",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/chung-khoan-bat-dong-san-dau-tu.html",
+          "count": "80",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/chung-khoan-bat-dong-san-dau-tu.html"
+        },
+        {
+          "id": "6032",
+          "name": "Tài Chính - Ngân Hàng",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/tai-chinh-ngan-hang.html",
+          "count": "72",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/tai-chinh-ngan-hang.html"
+        },
+        {
+          "id": "6037",
+          "name": "Nhân Sự - Việc Làm",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-su-viec-lam.html",
+          "count": "26",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/nhan-su-viec-lam.html"
+        },
+        {
+          "id": "6033",
+          "name": "Kế Toán - Kiểm Toán - Thuế",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/ke-toan-kiem-toan-thue.html",
+          "count": "14",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/kinh-te-chinh-tri-phap-ly/ke-toan-kiem-toan-thue.html"
+        }
+      ],
+      "attributes": [
+        {
+          "id": "194",
+          "code": "supplier_list",
+          "label": "Nhà Cung Cấp",
+          "param": "nhà-cung-cấp",
+          "options": [
+            {
+              "id": "1229126",
+              "label": "NXB Trẻ",
+              "selected": false,
+              "param": "nxb-trẻ",
+              "count": "19"
+            },
+            {
+              "id": "1227839",
+              "label": "Alpha Books",
+              "selected": false,
+              "param": "alpha-books",
+              "count": "16"
+            },
+            {
+              "id": "1227852",
+              "label": "Bách Việt",
+              "selected": false,
+              "param": "bách-việt",
+              "count": "6"
+            },
+            {
+              "id": "897890",
+              "label": "Nhã Nam",
+              "selected": false,
+              "param": "nhã-nam",
+              "count": "6"
+            },
+            {
+              "id": "1229213",
+              "label": "Thái Hà",
+              "selected": false,
+              "param": "thái-hà",
+              "count": "6"
+            },
+            {
+              "id": "1227833",
+              "label": "1980 Books",
+              "selected": false,
+              "param": "1980-books",
+              "count": "3"
+            },
+            {
+              "id": "647138",
+              "label": "First News",
+              "selected": false,
+              "param": "first-news",
+              "count": "2"
+            },
+            {
+              "id": "1228013",
+              "label": "Công ty TNHH Ecoblader",
+              "selected": false,
+              "param": "công-ty-tnhh-ecoblader",
+              "count": "1"
+            },
+            {
+              "id": "1228144",
+              "label": "Công ty TNHH Xuất Bản Và Truyền Thông Bestbooks Việt Nam",
+              "selected": false,
+              "param": "công-ty-tnhh-xuất-bản-và-truyền-thông-bestbooks-việt-nam",
+              "count": "1"
+            },
+            {
+              "id": "1228442",
+              "label": "Cty Sách Dân Trí",
+              "selected": false,
+              "param": "cty-sách-dân-trí",
+              "count": "1"
+            },
+            {
+              "id": "1228623",
+              "label": "Cty Văn Hóa HN",
+              "selected": false,
+              "param": "cty-văn-hóa-hn",
+              "count": "1"
+            },
+            {
+              "id": "1228642",
+              "label": "Cty Văn Hóa Văn Lang",
+              "selected": false,
+              "param": "cty-văn-hóa-văn-lang",
+              "count": "1"
+            },
+            {
+              "id": "1229124",
+              "label": "NXB Tổng Hợp TPHCM",
+              "selected": false,
+              "param": "nxb-tổng-hợp-tphcm",
+              "count": "1"
+            },
+            {
+              "id": "452145",
+              "label": "PHANBOOK",
+              "selected": false,
+              "param": "phanbook",
+              "count": "1"
+            },
+            {
+              "id": "1229193",
+              "label": "Saigon Books",
+              "selected": false,
+              "param": "saigon-books",
+              "count": "1"
+            },
+            {
+              "id": "1229295",
+              "label": "Viện Quản lý PACE",
+              "selected": false,
+              "param": "viện-quản-lý-pace",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "204",
+          "code": "languages",
+          "label": "Ngôn Ngữ",
+          "param": "ngôn-ngữ",
+          "options": [
+            {
+              "id": "449750",
+              "label": "Tiếng Việt",
+              "selected": false,
+              "param": "tiếng-việt",
+              "count": "65"
+            },
+            {
+              "id": "449751",
+              "label": "Tiếng Anh",
+              "selected": false,
+              "param": "tiếng-anh",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "140",
+          "code": "book_layout",
+          "label": "Hình thức",
+          "param": "hình-thức",
+          "options": [
+            {
+              "id": "9",
+              "label": "Bìa Mềm",
+              "selected": false,
+              "param": "bìa-mềm",
+              "count": "137"
+            },
+            {
+              "id": "126",
+              "label": "Bìa Cứng",
+              "selected": false,
+              "param": "bìa-cứng",
+              "count": "7"
+            }
+          ]
+        },
+        {
+          "id": "267",
+          "code": "model",
+          "label": "Mẫu mã",
+          "param": "mẫu-mã",
+          "options": [
+            {
+              "id": "1231391",
+              "label": "Tập 1",
+              "selected": false,
+              "param": "tập-1",
+              "count": "2"
+            },
+            {
+              "id": "1231392",
+              "label": "Tập 2",
+              "selected": false,
+              "param": "tập-2",
+              "count": "2"
+            },
+            {
+              "id": "1246012",
+              "label": "AI & Máy Móc",
+              "selected": false,
+              "param": "ai-&-máy-móc",
+              "count": "1"
+            },
+            {
+              "id": "1231255",
+              "label": "AI 5.0",
+              "selected": false,
+              "param": "ai-5.0",
+              "count": "1"
+            },
+            {
+              "id": "1245278",
+              "label": "Chất Lượng Cao",
+              "selected": false,
+              "param": "chất-lượng-cao",
+              "count": "1"
+            },
+            {
+              "id": "1245111",
+              "label": "Cuộc Cách Mạng",
+              "selected": false,
+              "param": "cuộc-cách-mạng",
+              "count": "1"
+            },
+            {
+              "id": "1246045",
+              "label": "Dễ Xơi",
+              "selected": false,
+              "param": "dễ-xơi",
+              "count": "1"
+            },
+            {
+              "id": "1245133",
+              "label": "Dòng Tiền",
+              "selected": false,
+              "param": "dòng-tiền",
+              "count": "1"
+            },
+            {
+              "id": "1245924",
+              "label": "Kinh Doanh Khách Sạn",
+              "selected": false,
+              "param": "kinh-doanh-khách-sạn",
+              "count": "1"
+            },
+            {
+              "id": "1245344",
+              "label": "Mã Hóa",
+              "selected": false,
+              "param": "mã-hóa",
+              "count": "1"
+            },
+            {
+              "id": "1231693",
+              "label": "Phần 1",
+              "selected": false,
+              "param": "phần-1",
+              "count": "1"
+            },
+            {
+              "id": "1231694",
+              "label": "Phần 2",
+              "selected": false,
+              "param": "phần-2",
+              "count": "1"
+            },
+            {
+              "id": "1231695",
+              "label": "Phần 3",
+              "selected": false,
+              "param": "phần-3",
+              "count": "1"
+            },
+            {
+              "id": "1231696",
+              "label": "Phần 4",
+              "selected": false,
+              "param": "phần-4",
+              "count": "1"
+            },
+            {
+              "id": "1254711",
+              "label": "Phần 4 (TB2026)",
+              "selected": false,
+              "param": "phần-4-(tb2026)",
+              "count": "1"
+            },
+            {
+              "id": "1231697",
+              "label": "Phần 5",
+              "selected": false,
+              "param": "phần-5",
+              "count": "1"
+            },
+            {
+              "id": "1247164",
+              "label": "Quyền Lực Mới",
+              "selected": false,
+              "param": "quyền-lực-mới",
+              "count": "1"
+            },
+            {
+              "id": "1246011",
+              "label": "Thay Đổi Vị Thế",
+              "selected": false,
+              "param": "thay-đổi-vị-thế",
+              "count": "1"
+            },
+            {
+              "id": "1245055",
+              "label": "Thời Đại 4.0",
+              "selected": false,
+              "param": "thời-đại-4.0",
+              "count": "1"
+            },
+            {
+              "id": "1246080",
+              "label": "Thống Kê",
+              "selected": false,
+              "param": "thống-kê",
+              "count": "1"
+            }
+          ]
+        }
+      ],
+      "price_range": {
+        "min": 0,
+        "max": 999999999,
+        "price_range": {
+          "min": 0,
+          "max": 999999999
+        }
+      },
+      "total_products": 146,
+      "product_list": [
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "719275",
+          "product_name": "Lược Sử Kinh Tế Học Lầy Lội - Khủng Hoảng Dạy Cho Ta Những Gì? - Tập 1",
+          "product_finalprice": "160.300",
+          "product_price": "229.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/luoc-su-kinh-te-hoc-lay-loi-khung-hoang-day-cho-ta-nhung-gi-tap-1.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935246944660.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": "Tập 1",
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "719276",
+          "product_name": "Lược Sử Kinh Tế Học Lầy Lội - Khủng Hoảng Dạy Cho Ta Những Gì? - Tập 2",
+          "product_finalprice": "125.300",
+          "product_price": "179.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/luoc-su-kinh-te-hoc-lay-loi-khung-hoang-day-cho-ta-nhung-gi-tap-2.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935246944677.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": "Tập 2",
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "638839",
+          "product_name": "Chiến Tranh Tiền Tệ - Phần 1 - Ai Thực Sự Là Người Giàu Nhất Thế Giới? (Tái bản 2025)",
+          "product_finalprice": "120.000",
+          "product_price": "185.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/chien-tranh-tien-te-phan-1-ai-thuc-su-la-nguoi-giau-nhat-the-gioi-tai-ban-2025.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/1/7/1743385319248.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": "Tập 1",
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "642511",
+          "product_name": "Chiến Tranh Tiền Tệ - Phần 5 - Tương Lai Của Tiền Tệ Thế Giới Bình Yên Trước Giông Bão (Tái Bản 2025)",
+          "product_finalprice": "150.500",
+          "product_price": "215.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/chien-tranh-tien-te-phan-5-tuong-lai-cua-tien-te-the-gioi-binh-yen-truoc-giong-bao-tai-ban-2025.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/p/h/photo_2025-05-19_11-23-46.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": "Tập 5",
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "bundle",
+          "type": "bundle",
+          "product_id": "821031",
+          "product_name": "Combo Sách Lược Sử Kinh Tế Học Lầy Lội - Khủng Hoảng Dạy Cho Ta Những Gì? - Tập 1 + Tập 2 (Bộ 2 Tập)",
+          "product_finalprice": "285.600",
+          "product_price": "408.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/combo-sach-luoc-su-kinh-te-hoc-lay-loi-khung-hoang-day-cho-ta-nhung-gi-tap-1-tap-2-bo-2-tap.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/e/4ea31309a3784b038f38102ddffe29c0.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1038472",
+          "product_name": "Chiến Tranh Tiền Tệ - Phần III - Biên Giới Tiền Tệ - Nhân Tố Bí Ẩn Trong Các Cuộc Chiến Kinh Tế (Tái Bản 2025)",
+          "product_finalprice": "129.500",
+          "product_price": "185.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/chien-tranh-tien-te-phan-iii-bien-gioi-tien-te-nhan-to-bi-an-trong-cac-cuoc-chien-kinh-te-tai-ban-2025-1038472.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/6/z6393045356694_0579fad53c934ec136d4928db386f828_2.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": "Tập 3",
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "399665",
+          "product_name": "Chiến Tranh Tiền Tệ Phần IV: Siêu Cường Về Tài Chính - Tham Vọng Về Đồng Tiền Chung Châu Á",
+          "product_finalprice": "129.500",
+          "product_price": "185.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/chien-tranh-tien-te-phan-iv-sieu-cuong-ve-tai-chinh-tham-vong-ve-dong-tien-chung-chau-a.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786043603590.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": "Tập 4",
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "597389",
+          "product_name": "Tại Sao Các Quốc Gia Thất Bại (Tái Bản 2024)",
+          "product_finalprice": "263.500",
+          "product_price": "310.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tai-sao-cac-quoc-gia-that-bai-tai-ban-2024.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/n/x/nxbtre_full_12232024_032347.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "series",
+          "type": "series",
+          "product_id": "360319",
+          "series_id": "13452",
+          "product_name": "Chiến Tranh Tiền Tệ Phần",
+          "product_url": "https://www.fahasa.com/seriesbook-index-series-id-13452.html",
+          "subscribes": "3824",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786043606492_thanh_ly.jpg",
+          "episode": "Tập mới nhất: 5",
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "579603",
+          "product_name": "Tinh Hoa Kinh Tế Học - Essentials Of Economics - Bìa Cứng (Tái Bản 2024)",
+          "product_finalprice": "387.000",
+          "product_price": "595.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tinh-hoa-kinh-te-hoc-essentials-of-economics-bia-cung-tai-ban-2024.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/i/tinhhoakinhtehoc_bia1.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "739378",
+          "product_name": "Sự Thịnh Vượng Của Các Quốc Gia - Bìa Cứng",
+          "product_finalprice": "494.250",
+          "product_price": "659.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/su-thinh-vuong-cua-cac-quoc-gia-bia-cung.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-s_-th_nh-v_ng-c_a-c_c-qu_c-gia.jpg",
+          "discount": 25,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">25%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "610285",
+          "product_name": "How Money Works - Hiểu Hết Về Tiền - Bìa Cứng",
+          "product_finalprice": "231.000",
+          "product_price": "330.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/how-money-works-hieu-het-ve-tien-bia-cung.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235243682.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1038471",
+          "product_name": "Chiến Tranh Tiền Tệ - Phần 2 - Sự Thống Trị Của Quyền Lực Tài Chính (Tái Bản 2026)",
+          "product_finalprice": "151.500",
+          "product_price": "185.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/chien-tranh-tien-te-phan-2-su-thong-tri-cua-quyen-luc-tai-chinh-tai-ban-2026.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/p/h/photo_2026-02-09_11-52-21.jpg",
+          "discount": 18,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">18%</span></div>",
+          "episode": "Tập 2",
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1039405",
+          "product_name": "Bảy Cuộc Khủng Hoảng Định Hình Toàn Cầu Hóa",
+          "product_finalprice": "210.500",
+          "product_price": "248.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/bay-cuoc-khung-hoang-dinh-hinh-toan-cau-hoa-1039405.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-b_y-cu_c-kh_ng-ho_ng-_nh-h_nh-to_n-c_u-h_a.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "641640",
+          "product_name": "The General Theory Of Employment, Interest And Money - Lý Thuyết Tổng Quát Về Việc Làm, Tiền Lãi Và Tiền Tệ",
+          "product_finalprice": "204.400",
+          "product_price": "280.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/the-general-theory-of-employment-interest-and-money-ly-thuyet-tong-quat-ve-viec-lam-tien-lai-va-tien-te.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786044761213.jpg",
+          "discount": 27,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">27%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "424879",
+          "product_name": "Nền Kinh Tế Tăng Trưởng Và Sụp Đổ Như Thế Nào? (Tái Bản 2023)",
+          "product_finalprice": "116.000",
+          "product_price": "179.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/nen-kinh-te-tang-truong-va-sup-do-nhu-the-nao-tai-ban-2023.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_40495_1.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "380384",
+          "product_name": "33 Chiến Lược Của Chiến Tranh (Tái Bản 2021)",
+          "product_finalprice": "182.500",
+          "product_price": "215.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/33-chien-luoc-cua-chien-tranh-tai-ban-2021.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_244718_1_3284.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "387075",
+          "product_name": "Quốc Gia Khởi Nghiệp - Câu Chuyện Về Nền Kinh Tế Thần Kỳ Của Israel (Tái Bản)",
+          "product_finalprice": "177.500",
+          "product_price": "209.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/quoc-gia-khoi-nghiep-cau-chuyen-ve-nen-kinh-te-than-ky-cua-israel-tai-ban.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935251412215_1.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "522205",
+          "product_name": "Doanh Nghiệp Của Thế Kỷ 21 (Tái Bản 2024)",
+          "product_finalprice": "75.000",
+          "product_price": "100.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/doanh-nghiep-cua-the-ky-21-tai-ban-2024.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/n/x/nxbtre_full_20152024_111546_1.jpg",
+          "discount": 25,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">25%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "805717",
+          "product_name": "Sự Thịnh Vượng Của Các Quốc Gia - The Wealth Of Nation - Bìa Cứng",
+          "product_finalprice": "413.000",
+          "product_price": "550.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/su-thinh-vuong-cua-cac-quoc-gia-the-wealth-of-nation-bia-cung.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/s/u/su-thinh-vuong-cua-cac-quoc-gia_artboard-1-03.jpg",
+          "discount": 24,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">24%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "446511",
+          "product_name": "Thời Đại AI Và Tương Lai Loài Người Chúng Ta",
+          "product_finalprice": "102.000",
+          "product_price": "120.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/thoi-dai-ai-va-tuong-lai-loai-nguoi-chung-ta.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934974189985.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "382677",
+          "product_name": "Hậu Khủng Hoảng: Bảy Bí Quyết Bảo Toàn Của Cải Trong Thời Gian Tới",
+          "product_finalprice": "174.000",
+          "product_price": "205.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/hau-khung-hoang-bay-bi-quyet-bao-toan-cua-cai-trong-thoi-gian-toi.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/n/x/nxbtre_full_15142021_031408.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "630438",
+          "product_name": "Dịch Chuyển Các Chuỗi Cung Toàn Cầu Dưới Tác Động Của Mỹ - Thách Thức Và Cơ Hội Đối Với Việt Nam",
+          "product_finalprice": "219.000",
+          "product_price": "258.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": null,
+          "product_url": "https://www.fahasa.com/dich-chuyen-cac-chuoi-cung-toan-cau-duoi-tac-dong-cua-my-thach-thuc-va-co-hoi-doi-voi-viet-nam.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786043646405.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1041351",
+          "product_name": "Chiến Tranh Tiền Tệ - Phần IV - Siêu Cường Về Tài Chính - Tham Vọng Về Đồng Tiền Chung Châu Á (Tái Bản 2026)",
+          "product_finalprice": "184.500",
+          "product_price": "205.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "1",
+          "product_url": "https://www.fahasa.com/chien-tranh-tien-te-phan-iv-sieu-cuong-ve-tai-chinh-tham-vong-ve-dong-tien-chung-chau-a-tai-ban-2026.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/7/z7601180554753_9603576612b9762bc2d5ac7b1a2d434b.jpg",
+          "discount": 10,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">10%</span></div>",
+          "episode": "Tập 4",
+          "label": "new_arrival",
+          "frame_image": []
+        }
+      ],
+      "noofpages": 7
+    }
+  },
+  {
+    "source_category_name": "Tâm Lý",
+    "source_category_url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song.html",
+    "response_url": "https://www.fahasa.com/fahasa_catalog/product/loadCatalog?category_id=149&currentPage=1&limit=24&order=num_orders&series_type=0",
+    "status": 200,
+    "headers": {
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "content-encoding": "br",
+      "cf-cache-status": "DYNAMIC",
+      "age": "0",
+      "speculation-rules": "\"/cdn-cgi/speculation\"",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PcPSMb8uQQF0LD3b3CZVDrrU6JWJJGk1uVIf4Dstd24efg6z55bTxeavp%2FYNDlX3mKu1i%2Fx8PND9wxjPC4XZe%2Bv%2FlvpbfN7sAml%2FeLq6PgmOVEyGJyE6qV8%2BGUHW2tc2\"}]}",
+      "cf-ray": "9e5c848fcd7e033f-HKG",
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "server-timing": "cfExtPri",
+      "date": "Thu, 02 Apr 2026 02:49:00 GMT",
+      "content-type": "application/json; charset=UTF-8",
+      "server": "cloudflare",
+      "priority": "u=1,i",
+      "x-frame-options": "SAMEORIGIN"
+    },
+    "crawl_time": "2026-04-02T09:49:01.611479",
+    "body": {
+      "status": 1,
+      "message": "Success",
+      "parent_categories": [
+        {
+          "id": 2,
+          "name": "All Category",
+          "path": "/all-category.html",
+          "url": "/all-category.html"
+        },
+        {
+          "id": "4",
+          "name": "Sách tiếng Việt",
+          "path": "https://www.fahasa.com/sach-trong-nuoc.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc.html"
+        },
+        {
+          "id": "12",
+          "name": "Tâm lý - Kỹ năng sống",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song.html"
+        }
+      ],
+      "category": {
+        "id": "149",
+        "name": "Rèn luyện nhân cách",
+        "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ren-luyen-nhan-cach.html",
+        "title": "Tổng hợp sách Rèn luyện nhân cách tại Fahasa.com",
+        "description": "Tổng hợp sách Rèn luyện nhân cách tại Fahasa.com, với ưu đãi hàng ngày lên tới 50%, giao hàng miễn phí toàn quốc chỉ từ 250k.",
+        "keywords": "sách Rèn luyện nhân cách, SACH rèn luyện nhân cách, rèn luyện nhân cách"
+      },
+      "children_categories": [
+        {
+          "id": "213",
+          "name": "Kỹ năng sống",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ky-nang-song.html",
+          "count": "3566",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ky-nang-song.html"
+        },
+        {
+          "id": "150",
+          "name": "Tâm lý",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/tam-ly.html",
+          "count": "524",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/tam-ly.html"
+        },
+        {
+          "id": "212",
+          "name": "Sách cho tuổi mới lớn",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/sach-cho-tuoi-moi-lon.html",
+          "count": "179",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/sach-cho-tuoi-moi-lon.html"
+        },
+        {
+          "id": "6302",
+          "name": "Chicken Soup - Hạt Giống Tâm Hồn",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/chicken-soup-hat-giong-tam-hon.html",
+          "count": "75",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/chicken-soup-hat-giong-tam-hon.html"
+        },
+        {
+          "id": "149",
+          "name": "Rèn luyện nhân cách",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ren-luyen-nhan-cach.html",
+          "count": "60",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ren-luyen-nhan-cach.html"
+        }
+      ],
+      "attributes": [
+        {
+          "id": "194",
+          "code": "supplier_list",
+          "label": "Nhà Cung Cấp",
+          "param": "nhà-cung-cấp",
+          "options": [
+            {
+              "id": "647138",
+              "label": "First News",
+              "selected": false,
+              "param": "first-news",
+              "count": "16"
+            },
+            {
+              "id": "1227948",
+              "label": "CÔNG TY CỔ PHẦN SÁCH TRÍ THỨC VIỆT",
+              "selected": false,
+              "param": "công-ty-cổ-phần-sách-trí-thức-việt",
+              "count": "5"
+            },
+            {
+              "id": "1229126",
+              "label": "NXB Trẻ",
+              "selected": false,
+              "param": "nxb-trẻ",
+              "count": "4"
+            },
+            {
+              "id": "1229124",
+              "label": "NXB Tổng Hợp TPHCM",
+              "selected": false,
+              "param": "nxb-tổng-hợp-tphcm",
+              "count": "3"
+            },
+            {
+              "id": "1228360",
+              "label": "Cty Nhân Trí Việt",
+              "selected": false,
+              "param": "cty-nhân-trí-việt",
+              "count": "2"
+            },
+            {
+              "id": "1228624",
+              "label": "Cty Văn Hóa Hương Trang",
+              "selected": false,
+              "param": "cty-văn-hóa-hương-trang",
+              "count": "2"
+            },
+            {
+              "id": "1228853",
+              "label": "Huy Hoang Bookstore",
+              "selected": false,
+              "param": "huy-hoang-bookstore",
+              "count": "2"
+            },
+            {
+              "id": "317856",
+              "label": "Minh Long",
+              "selected": false,
+              "param": "minh-long",
+              "count": "2"
+            },
+            {
+              "id": "1228615",
+              "label": "Cty Văn Hóa & Truyền Thông Liên Việt",
+              "selected": false,
+              "param": "cty-văn-hóa-&-truyền-thông-liên-việt",
+              "count": "1"
+            },
+            {
+              "id": "1228618",
+              "label": "Cty Văn Hóa & Truyền Thông Trí Việt.",
+              "selected": false,
+              "param": "cty-văn-hóa-&-truyền-thông-trí-việt.",
+              "count": "1"
+            },
+            {
+              "id": "1228642",
+              "label": "Cty Văn Hóa Văn Lang",
+              "selected": false,
+              "param": "cty-văn-hóa-văn-lang",
+              "count": "1"
+            },
+            {
+              "id": "647135",
+              "label": "Tân Việt",
+              "selected": false,
+              "param": "tân-việt",
+              "count": "1"
+            },
+            {
+              "id": "1229213",
+              "label": "Thái Hà",
+              "selected": false,
+              "param": "thái-hà",
+              "count": "1"
+            },
+            {
+              "id": "317859",
+              "label": "Đinh Tị",
+              "selected": false,
+              "param": "đinh-tị",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "195",
+          "code": "age",
+          "label": "Độ Tuổi",
+          "param": "độ-tuổi",
+          "options": [
+            {
+              "id": "43715",
+              "label": "10+",
+              "selected": false,
+              "param": "10+",
+              "count": "3"
+            }
+          ]
+        },
+        {
+          "id": "204",
+          "code": "languages",
+          "label": "Ngôn Ngữ",
+          "param": "ngôn-ngữ",
+          "options": [
+            {
+              "id": "449750",
+              "label": "Tiếng Việt",
+              "selected": false,
+              "param": "tiếng-việt",
+              "count": "15"
+            }
+          ]
+        },
+        {
+          "id": "140",
+          "code": "book_layout",
+          "label": "Hình thức",
+          "param": "hình-thức",
+          "options": [
+            {
+              "id": "9",
+              "label": "Bìa Mềm",
+              "selected": false,
+              "param": "bìa-mềm",
+              "count": "54"
+            },
+            {
+              "id": "126",
+              "label": "Bìa Cứng",
+              "selected": false,
+              "param": "bìa-cứng",
+              "count": "4"
+            }
+          ]
+        },
+        {
+          "id": "267",
+          "code": "model",
+          "label": "Mẫu mã",
+          "param": "mẫu-mã",
+          "options": [
+            {
+              "id": "1240424",
+              "label": "Biết Trân Trọng",
+              "selected": false,
+              "param": "biết-trân-trọng",
+              "count": "1"
+            },
+            {
+              "id": "1244867",
+              "label": "Kỹ Năng Vận Động",
+              "selected": false,
+              "param": "kỹ-năng-vận-động",
+              "count": "1"
+            },
+            {
+              "id": "1244661",
+              "label": "Người Thầy Khai Sáng",
+              "selected": false,
+              "param": "người-thầy-khai-sáng",
+              "count": "1"
+            },
+            {
+              "id": "1247161",
+              "label": "Phút Dành Cho Cha",
+              "selected": false,
+              "param": "phút-dành-cho-cha",
+              "count": "1"
+            },
+            {
+              "id": "1231391",
+              "label": "Tập 1",
+              "selected": false,
+              "param": "tập-1",
+              "count": "1"
+            },
+            {
+              "id": "1231392",
+              "label": "Tập 2",
+              "selected": false,
+              "param": "tập-2",
+              "count": "1"
+            },
+            {
+              "id": "1247067",
+              "label": "Thay Đổi",
+              "selected": false,
+              "param": "thay-đổi",
+              "count": "1"
+            },
+            {
+              "id": "1242313",
+              "label": "ĐNT 2021",
+              "selected": false,
+              "param": "đnt-2021",
+              "count": "1"
+            },
+            {
+              "id": "1242314",
+              "label": "ĐNT 2023",
+              "selected": false,
+              "param": "đnt-2023",
+              "count": "1"
+            },
+            {
+              "id": "1242319",
+              "label": "ĐNT Hiệu Chỉnh",
+              "selected": false,
+              "param": "đnt-hiệu-chỉnh",
+              "count": "1"
+            },
+            {
+              "id": "1242324",
+              "label": "ĐNT How To Win",
+              "selected": false,
+              "param": "đnt-how-to-win",
+              "count": "1"
+            },
+            {
+              "id": "1242316",
+              "label": "ĐNT Tinh Gọn-BC",
+              "selected": false,
+              "param": "đnt-tinh-gọn-bc",
+              "count": "1"
+            },
+            {
+              "id": "1242315",
+              "label": "ĐNT-BC 2023",
+              "selected": false,
+              "param": "đnt-bc-2023",
+              "count": "1"
+            }
+          ]
+        }
+      ],
+      "price_range": {
+        "min": 0,
+        "max": 999999999,
+        "price_range": {
+          "min": 0,
+          "max": 999999999
+        }
+      },
+      "total_products": 60,
+      "product_list": [
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "370678",
+          "product_name": "Đắc Nhân Tâm (Tái Bản 2021)",
+          "product_finalprice": "56.000",
+          "product_price": "86.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:100%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star active'></div><div class='rating-links'>5.0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dac-nhan-tam-tai-ban-2021.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1039796",
+          "product_name": "Đắc Nhân Tâm - How To Win Friends And Influence People - Song Ngữ Việt-Anh",
+          "product_finalprice": "95.000",
+          "product_price": "119.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dac-nhan-tam-how-to-win-friends-and-influence-people-song-ngu-viet-anh.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786320033331.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "371841",
+          "product_name": "Đắc Nhân Tâm - Bìa Cứng (Tái Bản 2021)",
+          "product_finalprice": "70.000",
+          "product_price": "108.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dac-nhan-tam-bia-cung-tai-ban-2021.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled_1.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "439255",
+          "product_name": "Đắc Nhân Tâm",
+          "product_finalprice": "56.000",
+          "product_price": "86.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dac-nhan-tam-sbooks.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786043949247.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1034768",
+          "product_name": "Cơ Hội Luôn Thiên Vị Những Người Kiên Trì (Tái Bản 2025)",
+          "product_finalprice": "150.000",
+          "product_price": "188.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/co-hoi-luon-thien-vi-nhung-nguoi-kien-tri-tb.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935246957080.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "351178",
+          "product_name": "Có Một Con Mọt Sách (Tái Bản)",
+          "product_finalprice": "42.340",
+          "product_price": "58.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/co-mot-con-mot-sach-tai-ban.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935086854167.jpg",
+          "discount": 27,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">27%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "382298",
+          "product_name": "Câu Chuyện Nhỏ Ý Nghĩa Lớn",
+          "product_finalprice": "55.000",
+          "product_price": "69.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/cau-chuyen-nho-y-nghia-lon-382298.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_244718_1_4784.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "403620",
+          "product_name": "Tủ Sách Rèn Nhân Cách Sống Cho Trẻ - Tinh Thần Tương Thân Tương Ái (Tái Bản 2022)",
+          "product_finalprice": "11.000",
+          "product_price": "13.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tu-sach-ren-nhan-cach-song-cho-tre-tinh-than-tuong-than-tuong-ai-tai-ban-2022.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786043449693.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "444598",
+          "product_name": "Nhân - Nghệ Thuật Đối Đãi Vị Nhân Sinh",
+          "product_finalprice": "69.500",
+          "product_price": "139.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/nhan-nghe-thuat-doi-dai-vi-nhan-sinh.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a1_nh_n.jpg",
+          "discount": 50,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">50%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "453531",
+          "product_name": "Đắc Nhân Tâm (Tái Bản 2023)",
+          "product_finalprice": "68.500",
+          "product_price": "86.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": null,
+          "product_url": "https://www.fahasa.com/dac-nhan-tam-tai-ban-2023.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935236432337.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "453532",
+          "product_name": "Đắc Nhân Tâm - Bìa Cứng (Tái Bản 2023)",
+          "product_finalprice": "92.000",
+          "product_price": "115.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dac-nhan-tam-bia-cung-tai-ban-2023.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935236432412.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "530881",
+          "product_name": "Phép Tắc Người Con - Đệ Tử Quy",
+          "product_finalprice": "68.000",
+          "product_price": "85.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/phep-tac-nguoi-con-de-tu-quy.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935236434683.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "170809",
+          "product_name": "Tự Tin - Nghệ Thuật Giúp Bạn Đạt Được Mọi Mong Muốn",
+          "product_finalprice": "125.000",
+          "product_price": "198.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:80%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star active'></div><div class='rating-links'>4.0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tu-tin-nghe-thuat-giup-ban-dat-duoc-moi-mong-muon.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786045850794_1.jpg",
+          "discount": 36,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">36%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "243283",
+          "product_name": "100 Gương Hiếu",
+          "product_finalprice": "48.960",
+          "product_price": "68.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/100-guong-hieu-243283.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_187364.jpg",
+          "discount": 28,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">28%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "921396",
+          "product_name": "Đắc Nhân Tâm - Bản Hiệu Chỉnh (Tái Bản 2025)",
+          "product_finalprice": "118.000",
+          "product_price": "139.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dac-nhan-tam-ban-hieu-chinh-tai-ban-2025.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235238206_1.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "248848",
+          "product_name": "Rèn Luyện Phẩm Chất Dành Cho Học Sinh Tiểu Học - Chủ Đề: Chăm Chỉ",
+          "product_finalprice": "40.500",
+          "product_price": "48.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/ren-luyen-pham-chat-danh-cho-hoc-sinh-tieu-hoc-chu-de-cham-chi.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_191087.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "352422",
+          "product_name": "Dám Thay Đổi - Từ A Đến Z (Tái Bản 2020)",
+          "product_finalprice": "75.900",
+          "product_price": "138.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": null,
+          "product_url": "https://www.fahasa.com/dam-thay-doi-tu-a-den-z-352422.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_226328.jpg",
+          "discount": 45,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">45%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "352423",
+          "product_name": "Phút Dành Cho Cha - Tái Bản 2020",
+          "product_finalprice": "42.340",
+          "product_price": "58.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/phut-danh-cho-cha-tb-2020.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_226329.jpg",
+          "discount": 27,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">27%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "series",
+          "type": "series",
+          "product_id": "359792",
+          "series_id": "5384",
+          "product_name": "Bí Mật Tình Yêu",
+          "product_url": "https://www.fahasa.com/seriesbook-index-series-id-5384.html",
+          "subscribes": "3787",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_65887_thanh_ly.jpg",
+          "episode": "Tập mới nhất: 2",
+          "frame_image": []
+        },
+        {
+          "type_id": "series",
+          "type": "series",
+          "product_id": "359856",
+          "series_id": "6327",
+          "product_name": "Cung Bậc Tình Yêu",
+          "product_url": "https://www.fahasa.com/seriesbook-index-series-id-6327.html",
+          "subscribes": "3770",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935086818862_thanh_ly.jpg",
+          "episode": "Tập mới nhất: 2",
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "23385",
+          "product_name": "Gian Truân Chỉ Là Thử Thách",
+          "product_finalprice": "75.460",
+          "product_price": "98.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/gian-truan-chi-la-thu-thach.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935086832622.jpg",
+          "discount": 23,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">23%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "23513",
+          "product_name": "Rèn Luyện Kỹ Năng Vận Động Dành Cho Học Sinh",
+          "product_finalprice": "44.000",
+          "product_price": "55.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:100%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star active'></div><div class='rating-links'>5.0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/ren-luyen-ky-nang-van-dong-danh-cho-hoc-sinh.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_22479.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "30578",
+          "product_name": "Tâm Hồn Lướt Sóng",
+          "product_finalprice": "42.340",
+          "product_price": "58.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:100%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star active'></div><div class='rating-links'>5.0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tam-hon-luot-song.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935086833575.jpg",
+          "discount": 27,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">27%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "382251",
+          "product_name": "Kỹ Năng Sống Dành Cho Học Sinh - Biết Trân Trọng (Loài Cây Đắng Nhất Nhưng Nở Hoa Thơm Nhất)",
+          "product_finalprice": "44.000",
+          "product_price": "55.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/ky-nang-song-danh-cho-hoc-sinh-biet-tran-trong-loai-cay-dang-nhat-nhung-no-hoa-thom-nhat.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_244718_1_4737.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        }
+      ],
+      "noofpages": 3
+    }
+  },
+  {
+    "source_category_name": "Tâm Lý",
+    "source_category_url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song.html",
+    "response_url": "https://www.fahasa.com/fahasa_catalog/product/loadCatalog?category_id=150&currentPage=1&limit=24&order=num_orders&series_type=0",
+    "status": 200,
+    "headers": {
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "content-encoding": "br",
+      "cf-cache-status": "DYNAMIC",
+      "age": "0",
+      "speculation-rules": "\"/cdn-cgi/speculation\"",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cORCIQE%2F%2FD1dAK2AojJmyH7hLEGN%2BrWb3Mh9tXKjyjmU4ri%2BP8erlwE84joSPB8SOKv%2FrSzX6ZEd%2FswNDZ25DPTywTlT7zx0ot75nGkxaWjIGAZzy%2FqNWMU3CEJ4Brhq\"}]}",
+      "cf-ray": "9e5c84c8db02033f-HKG",
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "server-timing": "cfExtPri",
+      "date": "Thu, 02 Apr 2026 02:49:09 GMT",
+      "content-type": "application/json; charset=UTF-8",
+      "server": "cloudflare",
+      "priority": "u=1,i",
+      "x-frame-options": "SAMEORIGIN"
+    },
+    "crawl_time": "2026-04-02T09:49:10.726183",
+    "body": {
+      "status": 1,
+      "message": "Success",
+      "parent_categories": [
+        {
+          "id": 2,
+          "name": "Tất Cả Nhóm Sản Phẩm",
+          "path": "/all-category.html",
+          "url": "/all-category.html"
+        },
+        {
+          "id": "4",
+          "name": "Sách tiếng Việt",
+          "path": "https://www.fahasa.com/sach-trong-nuoc.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc.html"
+        },
+        {
+          "id": "12",
+          "name": "Tâm lý - Kỹ năng sống",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song.html",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song.html"
+        }
+      ],
+      "category": {
+        "id": "150",
+        "name": "Tâm lý",
+        "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/tam-ly.html",
+        "title": "Tổng hợp sách Tâm lý tại Fahasa.com",
+        "description": "Tổng hợp sách Tâm lý tại Fahasa.com, với ưu đãi hàng ngày lên tới 50%, giao hàng miễn phí toàn quốc chỉ từ 250k.",
+        "keywords": "sách Tâm lý, SACH tâm lý, tâm lý"
+      },
+      "children_categories": [
+        {
+          "id": "213",
+          "name": "Kỹ năng sống",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ky-nang-song.html",
+          "count": "3566",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ky-nang-song.html"
+        },
+        {
+          "id": "150",
+          "name": "Tâm lý",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/tam-ly.html",
+          "count": "524",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/tam-ly.html"
+        },
+        {
+          "id": "212",
+          "name": "Sách cho tuổi mới lớn",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/sach-cho-tuoi-moi-lon.html",
+          "count": "179",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/sach-cho-tuoi-moi-lon.html"
+        },
+        {
+          "id": "6302",
+          "name": "Chicken Soup - Hạt Giống Tâm Hồn",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/chicken-soup-hat-giong-tam-hon.html",
+          "count": "75",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/chicken-soup-hat-giong-tam-hon.html"
+        },
+        {
+          "id": "149",
+          "name": "Rèn luyện nhân cách",
+          "path": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ren-luyen-nhan-cach.html",
+          "count": "60",
+          "url": "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song/ren-luyen-nhan-cach.html"
+        }
+      ],
+      "attributes": [
+        {
+          "id": "194",
+          "code": "supplier_list",
+          "label": "Nhà Cung Cấp",
+          "param": "nhà-cung-cấp",
+          "options": [
+            {
+              "id": "1227833",
+              "label": "1980 Books",
+              "selected": false,
+              "param": "1980-books",
+              "count": "21"
+            },
+            {
+              "id": "1227849",
+              "label": "AZ Việt Nam",
+              "selected": false,
+              "param": "az-việt-nam",
+              "count": "21"
+            },
+            {
+              "id": "1229213",
+              "label": "Thái Hà",
+              "selected": false,
+              "param": "thái-hà",
+              "count": "12"
+            },
+            {
+              "id": "1227839",
+              "label": "Alpha Books",
+              "selected": false,
+              "param": "alpha-books",
+              "count": "8"
+            },
+            {
+              "id": "897890",
+              "label": "Nhã Nam",
+              "selected": false,
+              "param": "nhã-nam",
+              "count": "8"
+            },
+            {
+              "id": "647138",
+              "label": "First News",
+              "selected": false,
+              "param": "first-news",
+              "count": "6"
+            },
+            {
+              "id": "1228070",
+              "label": "CÔNG TY TNHH SÁCH & TRUYỀN THÔNG VIỆT NAM",
+              "selected": false,
+              "param": "công-ty-tnhh-sách-&-truyền-thông-việt-nam",
+              "count": "4"
+            },
+            {
+              "id": "1228642",
+              "label": "Cty Văn Hóa Văn Lang",
+              "selected": false,
+              "param": "cty-văn-hóa-văn-lang",
+              "count": "4"
+            },
+            {
+              "id": "317856",
+              "label": "Minh Long",
+              "selected": false,
+              "param": "minh-long",
+              "count": "4"
+            },
+            {
+              "id": "1229126",
+              "label": "NXB Trẻ",
+              "selected": false,
+              "param": "nxb-trẻ",
+              "count": "4"
+            },
+            {
+              "id": "1229136",
+              "label": "Panda Books",
+              "selected": false,
+              "param": "panda-books",
+              "count": "4"
+            },
+            {
+              "id": "1228360",
+              "label": "Cty Nhân Trí Việt",
+              "selected": false,
+              "param": "cty-nhân-trí-việt",
+              "count": "3"
+            },
+            {
+              "id": "1228853",
+              "label": "Huy Hoang Bookstore",
+              "selected": false,
+              "param": "huy-hoang-bookstore",
+              "count": "3"
+            },
+            {
+              "id": "1229193",
+              "label": "Saigon Books",
+              "selected": false,
+              "param": "saigon-books",
+              "count": "3"
+            },
+            {
+              "id": "1227852",
+              "label": "Bách Việt",
+              "selected": false,
+              "param": "bách-việt",
+              "count": "2"
+            },
+            {
+              "id": "1228132",
+              "label": "CÔNG TY TNHH VĂN HÓA VÀ TRUYỀN THÔNG THẢO NGUYÊN",
+              "selected": false,
+              "param": "công-ty-tnhh-văn-hóa-và-truyền-thông-thảo-nguyên",
+              "count": "2"
+            },
+            {
+              "id": "1228195",
+              "label": "Cty Bán Lẻ Phương Nam",
+              "selected": false,
+              "param": "cty-bán-lẻ-phương-nam",
+              "count": "2"
+            },
+            {
+              "id": "1229202",
+              "label": "Skybooks",
+              "selected": false,
+              "param": "skybooks",
+              "count": "2"
+            },
+            {
+              "id": "1229326",
+              "label": "ZenBooks",
+              "selected": false,
+              "param": "zenbooks",
+              "count": "2"
+            },
+            {
+              "id": "1227950",
+              "label": "Công ty cổ phần sách và truyền thông Minh Quang",
+              "selected": false,
+              "param": "công-ty-cổ-phần-sách-và-truyền-thông-minh-quang",
+              "count": "1"
+            },
+            {
+              "id": "1228013",
+              "label": "Công ty TNHH Ecoblader",
+              "selected": false,
+              "param": "công-ty-tnhh-ecoblader",
+              "count": "1"
+            },
+            {
+              "id": "1228273",
+              "label": "Cty Giáo Dục Sputnik",
+              "selected": false,
+              "param": "cty-giáo-dục-sputnik",
+              "count": "1"
+            },
+            {
+              "id": "1228442",
+              "label": "Cty Sách Dân Trí",
+              "selected": false,
+              "param": "cty-sách-dân-trí",
+              "count": "1"
+            },
+            {
+              "id": "1228447",
+              "label": "Cty Sách Giáo Dục Tại TP.HCM",
+              "selected": false,
+              "param": "cty-sách-giáo-dục-tại-tp.hcm",
+              "count": "1"
+            },
+            {
+              "id": "1228621",
+              "label": "Cty Văn Hóa Gia Vũ",
+              "selected": false,
+              "param": "cty-văn-hóa-gia-vũ",
+              "count": "1"
+            },
+            {
+              "id": "448556",
+              "label": "Nhà Xuất Bản Kim Đồng",
+              "selected": false,
+              "param": "nhà-xuất-bản-kim-đồng",
+              "count": "1"
+            },
+            {
+              "id": "317859",
+              "label": "Đinh Tị",
+              "selected": false,
+              "param": "đinh-tị",
+              "count": "1"
+            },
+            {
+              "id": "1229353",
+              "label": "Đông A",
+              "selected": false,
+              "param": "đông-a",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "195",
+          "code": "age",
+          "label": "Độ Tuổi",
+          "param": "độ-tuổi",
+          "options": [
+            {
+              "id": "667298",
+              "label": "18+",
+              "selected": false,
+              "param": "18+",
+              "count": "3"
+            }
+          ]
+        },
+        {
+          "id": "204",
+          "code": "languages",
+          "label": "Ngôn Ngữ",
+          "param": "ngôn-ngữ",
+          "options": [
+            {
+              "id": "449750",
+              "label": "Tiếng Việt",
+              "selected": false,
+              "param": "tiếng-việt",
+              "count": "311"
+            },
+            {
+              "id": "449748",
+              "label": "Tiếng Trung",
+              "selected": false,
+              "param": "tiếng-trung",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "id": "140",
+          "code": "book_layout",
+          "label": "Hình thức",
+          "param": "hình-thức",
+          "options": [
+            {
+              "id": "9",
+              "label": "Bìa Mềm",
+              "selected": false,
+              "param": "bìa-mềm",
+              "count": "511"
+            },
+            {
+              "id": "126",
+              "label": "Bìa Cứng",
+              "selected": false,
+              "param": "bìa-cứng",
+              "count": "10"
+            }
+          ]
+        },
+        {
+          "id": "267",
+          "code": "model",
+          "label": "Mẫu mã",
+          "param": "mẫu-mã",
+          "options": [
+            {
+              "id": "1231392",
+              "label": "Tập 2",
+              "selected": false,
+              "param": "tập-2",
+              "count": "3"
+            },
+            {
+              "id": "1245174",
+              "label": "Về Tiền",
+              "selected": false,
+              "param": "về-tiền",
+              "count": "3"
+            },
+            {
+              "id": "1244306",
+              "label": "Tâm Lý Học",
+              "selected": false,
+              "param": "tâm-lý-học",
+              "count": "2"
+            },
+            {
+              "id": "1231391",
+              "label": "Tập 1",
+              "selected": false,
+              "param": "tập-1",
+              "count": "2"
+            },
+            {
+              "id": "1245099",
+              "label": "Trò Chơi",
+              "selected": false,
+              "param": "trò-chơi",
+              "count": "2"
+            },
+            {
+              "id": "1233360",
+              "label": "Âm Nhạc",
+              "selected": false,
+              "param": "âm-nhạc",
+              "count": "1"
+            },
+            {
+              "id": "1245179",
+              "label": "Bản Chất Con Người",
+              "selected": false,
+              "param": "bản-chất-con-người",
+              "count": "1"
+            },
+            {
+              "id": "1244258",
+              "label": "Bạn Muốn",
+              "selected": false,
+              "param": "bạn-muốn",
+              "count": "1"
+            },
+            {
+              "id": "1245035",
+              "label": "Bất Cứ Ai",
+              "selected": false,
+              "param": "bất-cứ-ai",
+              "count": "1"
+            },
+            {
+              "id": "1245274",
+              "label": "Bị Ghét",
+              "selected": false,
+              "param": "bị-ghét",
+              "count": "1"
+            },
+            {
+              "id": "1247403",
+              "label": "Bí Mật Tối Cao",
+              "selected": false,
+              "param": "bí-mật-tối-cao",
+              "count": "1"
+            },
+            {
+              "id": "1231403",
+              "label": "Bìa Mềm",
+              "selected": false,
+              "param": "bìa-mềm",
+              "count": "1"
+            },
+            {
+              "id": "1245293",
+              "label": "Bình Thường",
+              "selected": false,
+              "param": "bình-thường",
+              "count": "1"
+            },
+            {
+              "id": "1247298",
+              "label": "Bước Chậm Lại",
+              "selected": false,
+              "param": "bước-chậm-lại",
+              "count": "1"
+            },
+            {
+              "id": "1245197",
+              "label": "Cảm Xúc Bằng Ngôn Từ",
+              "selected": false,
+              "param": "cảm-xúc-bằng-ngôn-từ",
+              "count": "1"
+            },
+            {
+              "id": "1237465",
+              "label": "Can Đảm",
+              "selected": false,
+              "param": "can-đảm",
+              "count": "1"
+            },
+            {
+              "id": "1244403",
+              "label": "Chia Tay",
+              "selected": false,
+              "param": "chia-tay",
+              "count": "1"
+            },
+            {
+              "id": "1247208",
+              "label": "Chưa Khai Phá",
+              "selected": false,
+              "param": "chưa-khai-phá",
+              "count": "1"
+            },
+            {
+              "id": "1245092",
+              "label": "Chữa Lành Cơ Thể",
+              "selected": false,
+              "param": "chữa-lành-cơ-thể",
+              "count": "1"
+            },
+            {
+              "id": "1247472",
+              "label": "Của Tình Yêu",
+              "selected": false,
+              "param": "của-tình-yêu",
+              "count": "1"
+            }
+          ]
+        }
+      ],
+      "price_range": {
+        "min": 0,
+        "max": 999999999,
+        "price_range": {
+          "min": 0,
+          "max": 999999999
+        }
+      },
+      "total_products": 524,
+      "product_list": [
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "530609",
+          "product_name": "Trong Đầu Có Giấu Con Voi - The Elephant In The Brain",
+          "product_finalprice": "151.000",
+          "product_price": "215.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/trong-dau-co-giau-con-voi.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/3/433294962_1031827845030383_3138211657472207753_n.jpg",
+          "discount": 29,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">29%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "442088",
+          "product_name": "Dám Bị Ghét",
+          "product_finalprice": "101.000",
+          "product_price": "119.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dam-bi-ghet-442088.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/y/h/yho27ekd.jpg",
+          "discount": 15,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">15%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "414187",
+          "product_name": "Định Luật Murphy - Mọi Bí Mật Tâm Lý Thao Túng Cuộc Đời Bạn",
+          "product_finalprice": "77.000",
+          "product_price": "119.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dinh-luat-murphy-moi-bi-mat-tam-ly-thao-tung-cuoc-doi-ban.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/p/h/ph_t-h_nh-_nh-lu_t-murphybia-1.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "341572",
+          "product_name": "Tâm Lý Học Về Tiền",
+          "product_finalprice": "151.000",
+          "product_price": "189.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tam-ly-hoc-ve-tien.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_220008.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "603422",
+          "product_name": "Kiếp Nào Ta Cũng Tìm Thấy Nhau (Tái Bản 2024)",
+          "product_finalprice": "90.000",
+          "product_price": "129.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/kiep-nao-ta-cung-tim-thay-nhau-tai-ban-2024.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/k/i/kiep-nao-ta-cung-tim-thay-nhau---bia-1-_tb-2024_.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "606133",
+          "product_name": "Khi Mọi Điều Không Như Ý",
+          "product_finalprice": "76.000",
+          "product_price": "109.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/khi-moi-dieu-khong-nhu-y.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235243163.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "349270",
+          "product_name": "Thiên Tài Bên Trái, Kẻ Điên Bên Phải (Tái Bản 2021)",
+          "product_finalprice": "116.000",
+          "product_price": "179.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:85%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star active'></div><div class='rating-links'>4.3</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/thien-tai-ben-trai-ke-dien-ben-phai-tai-ban-2021.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-thi_n-t_i-b_n-tr_i-k_-_i_n-b_n-ph_i_1.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "591894",
+          "product_name": "Cách Sống - Từ Bình Thường Trở Nên Phi Thường (Tái Bản 2024)",
+          "product_finalprice": "69.000",
+          "product_price": "99.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": null,
+          "product_url": "https://www.fahasa.com/cach-song-tu-binh-thuong-tro-nen-phi-thuong-tai-ban-2024.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935280917316.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "678862",
+          "product_name": "Hiểu Về Bản Chất Con Người - Lý Luận Của Bậc Thầy Tâm Thần Học",
+          "product_finalprice": "84.000",
+          "product_price": "129.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/hieu-ve-ban-chat-con-nguoi-ly-luan-cua-bac-thay-tam-than-hoc-678862.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-tr_c-b_n-ch_t.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "779041",
+          "product_name": "The Art of Spending Money - Giải Mã Tâm Lý Hành Vi Về Tiền",
+          "product_finalprice": "191.000",
+          "product_price": "239.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/the-art-of-spending-money-giai-ma-tam-ly-hanh-vi-ve-tien.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/g/i/giai-ma-tam-ly-hanh-vi-ve-tien-01.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "607154",
+          "product_name": "Đại Dương Đen (Tái Bản 2025)",
+          "product_finalprice": "139.000",
+          "product_price": "198.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/dai-duong-den-tai-ban-2025.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8938539539505.jpg",
+          "discount": 29,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">29%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "580164",
+          "product_name": "Các Học Thuyết Tâm Lý Nhân Cách (Tái Bản 2024)",
+          "product_finalprice": "215.000",
+          "product_price": "330.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/cac-hoc-thuyet-tam-ly-nhan-cach-tai-ban-2024.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786044920962_.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "368210",
+          "product_name": "Tâm Lý Học Tội Phạm - Phác Họa Chân Dung Kẻ Phạm Tội",
+          "product_finalprice": "94.000",
+          "product_price": "145.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tam-ly-hoc-toi-pham-phac-hoa-chan-dung-ke-pham-toi.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/p/h/ph_c-h_a-ch_n-dung-k_-ph_m-t_i.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "589415",
+          "product_name": "Trắc Nghiệm Tâm Lý - Bạn Có Phải Kẻ Tâm Thần",
+          "product_finalprice": "45.000",
+          "product_price": "69.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/trac-nghiem-tam-ly-ban-co-phai-ke-tam-than.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-tr_c_32.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1040489",
+          "product_name": "“Mukbang” Nỗi Buồn",
+          "product_finalprice": "142.200",
+          "product_price": "158.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/mukbang-noi-buon.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/_/b/_b_a_-mukbang-n_i-bu_n.jpg",
+          "discount": 10,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">10%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "689766",
+          "product_name": "Những Mô Hình Tư Duy Vĩ Đại - Những Nguyên Tắc Tư Duy Cốt Lõi",
+          "product_finalprice": "94.500",
+          "product_price": "150.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/nhung-mo-hinh-tu-duy-vi-dai-nhung-nguyen-tac-tu-duy-cot-loi.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936225390393.jpg",
+          "discount": 37,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">37%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "388773",
+          "product_name": "Power Vs Force - Trường Năng Lượng Và Những Nhân Tố Quyết Định Hành Vi Của Con Người (Tái Bản)",
+          "product_finalprice": "125.000",
+          "product_price": "179.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/power-vs-force-truong-nang-luong-va-nhung-nhan-to-quyet-dinh-hanh-vi-cua-con-nguoi-tai-ban.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/3/z3906853945802_117ed7e397ebd6e00c1d7267182672a6.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1033450",
+          "product_name": "Hỏi Bằng Tarot - Trả Lời Bằng Tâm Lý Học",
+          "product_finalprice": "97.000",
+          "product_price": "139.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/hoi-bang-tarot-tra-loi-bang-tam-ly-hoc.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-1---h_i-b_ng-tarot_-tr_-l_i-b_ng-t_m-l_-h_c.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "412133",
+          "product_name": "SIGNS Thông Điệp Bí Ẩn Từ Vũ Trụ",
+          "product_finalprice": "64.500",
+          "product_price": "129.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/signs-thong-diep-bi-an-tu-vu-tru.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-1---_i_p-b_-_n-t_-v_-tr_.jpg",
+          "discount": 50,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">50%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "582849",
+          "product_name": "Sổ Tay Tâm Lý Học - 100 Khám Phá Cơ Bản Về Tâm Trí Con Người",
+          "product_finalprice": "62.000",
+          "product_price": "95.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/so-tay-tam-ly-hoc-100-kham-pha-co-ban-ve-tam-tri-con-nguoi.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/_/b/_b_a-tr_c_-s_-tay-t_m-l_-h_c.jpg",
+          "discount": 34,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">34%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "426629",
+          "product_name": "7 Cảm Xúc Lớn - Để Tâm An Giữa Bộn Bề Bất Ổn",
+          "product_finalprice": "104.000",
+          "product_price": "139.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/7-cam-xuc-lon-de-tam-an-giua-bon-be-bat-on.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935325012006.jpg",
+          "discount": 25,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">25%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "1037733",
+          "product_name": "Tâm Lý Học Về Tiền (Tái Bản 2026)",
+          "product_finalprice": "191.000",
+          "product_price": "239.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/tam-ly-hoc-ve-tien-tai-ban-2026.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_220008_1.jpg",
+          "discount": 20,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">20%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "689734",
+          "product_name": "Hồi Ức, Giấc Mơ, Suy Ngẫm",
+          "product_finalprice": "224.000",
+          "product_price": "345.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/hoi-uc-giac-mo-suy-ngam.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-h_i-_c_-gi_c-m_-suy-ng_m.jpg",
+          "discount": 35,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">35%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        },
+        {
+          "type_id": "simple",
+          "type": "simple",
+          "product_id": "597169",
+          "product_name": "Bước Chậm Lại Giữa Thế Gian Vội Vã",
+          "product_finalprice": "70.000",
+          "product_price": "100.000",
+          "rating_html": "<div class='desktop_only ratings'>\n\t\t\t\t\t\t\t    <div class='rating-box'>\n\t\t\t\t\t\t\t\t<div class='rating' style='width:0%'></div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t    </div><div class='mobile_only fhs_center_left margin_top_small '><div class='icon-star deactive'></div><div class='rating-links'>0</div></div>",
+          "soon_release": "0",
+          "product_url": "https://www.fahasa.com/buoc-cham-lai-giua-the-gian-voi-va-597169.html",
+          "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235242975.jpg",
+          "discount": 30,
+          "discount_label_html": "<div class=\"label-pro-sale m-label-pro-sale\"><span class=\"p-sale-label discount-l-fs\">30%</span></div>",
+          "episode": null,
+          "label": null,
+          "frame_image": []
+        }
+      ],
+      "noofpages": 22
+    }
+  }
+]

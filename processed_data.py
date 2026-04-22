@@ -3,7 +3,7 @@ from datetime import datetime
 import os 
 from minio import Minio 
 import io
-from audit_utils import insert_task_audit,finish_pipeline_run
+from audit_utils import insert_task_audit,upsert_pipeline_run,finish_pipeline_run,update_task_audit
 
 #cấu hình liên quan đến địa chỉ và tk,mk đăng nhập cho các service đã được setup
 MINIO_ENDPOINT = os.getenv("MINIO_ENDPOINT","minio:9000")
@@ -40,6 +40,7 @@ def validate_product(p:dict):
     price = to_int(p.get("product_price"))
     final_price=to_int(p.get("product_finalprice"))
     
+    
     if not product_id:
         errors.append("missing_product_id")
     if not product_name:
@@ -56,6 +57,8 @@ def validate_product(p:dict):
         and final_price>price
     ):
         errors.append("final_price_greater_than_price")
+    if (price is None or price ==0) and final_price is not None and final_price > 0:
+        errors.append("missing_or_zero_price_with_final_price")
     return errors
 
 #hàm này từ cái phần báo cáo lấy ra các cái thông tin tổng hợp và sử dụng nó để kiểm tra xem các cái phần 
@@ -135,25 +138,29 @@ def process_data(raw_file_minio:str):
         "invalid_final_price_negative":0,
         "final_price_greater_than_price":0,
         "duplicate_product_id":0,
+        "missing_or_zero_price_with_final_price":0
     }
     
     source_name = None
     
     raw_run_ids=set()
+    
+    for response_item in raw_data:
+        if source_name is None:
+            source_name=response_item.get("source_name")
+        run_id=response_item.get("run_id")
+        if run_id:
+            raw_run_ids.add(run_id)
+    process_run_id = next(iter(raw_run_ids)) if raw_run_ids else now_str() 
 
+    insert_task_audit(
+        process_run_id=process_run_id,
+        task_name="process_data",
+        status="running"
+    )
     for response_item in raw_data:
         body = response_item.get("body",{})
         crawl_time = response_item.get("crawl_time",datetime.now().isoformat())
-        
-        if source_name is None:
-            source_name = response_item.get("source_name")
-            
-        #đồng nhất run_id cho cả 1 pipeline
-        run_id=response_item.get("run_id")
-        
-        #không bị trùng lặp run_id
-        if run_id:
-            raw_run_ids.add(run_id)
         
         if not isinstance(body,dict):
             continue
@@ -281,7 +288,6 @@ def process_data(raw_file_minio:str):
                         "crawl_time" : crawl_time
                     }   
     
-    process_run_id = next(iter(raw_run_ids)) if raw_run_ids else now_str()
     #from report about all products to control quality both pipeline
     quality_gate=evaluate_quality_gate(quality_report)       
     # add information needed about processed_data         
@@ -335,6 +341,16 @@ def process_data(raw_file_minio:str):
         length=len(data_bytes),
         content_type="application/json"
     )
+    upsert_pipeline_run(
+        process_run_id=process_run_id,
+        processed_at=processed_at,
+        source_name=source_name,
+        raw_file_minio=raw_file_minio,
+        total_raw_records=len(raw_data),
+        processed_file_minio=object_name,
+        status="running",
+        error_message=None
+    )
     #print information about task process
     print(f"Đã có {len(processed_data['clean_data']['categories'])} categories được xử lí")
     print(f"Đã có {len(processed_data['clean_data']['products'])} products được xử lí")
@@ -354,7 +370,7 @@ def process_data(raw_file_minio:str):
     
     #throw exception if pipeline is bad (check from gate)
     if quality_gate["status"]!="passed":
-        insert_task_audit(
+        update_task_audit(
         process_run_id=process_run_id,
         task_name="process_data",
         status="failed",
@@ -372,7 +388,7 @@ def process_data(raw_file_minio:str):
             "Quality gate failure: " + "; ".join(quality_gate["reasons"])
             )
     
-    insert_task_audit(
+    update_task_audit(
         process_run_id=process_run_id,
         task_name="process_data",   
         status="success",

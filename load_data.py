@@ -2,7 +2,7 @@ import json
 from minio import Minio
 import psycopg2
 import os
-from audit_utils import finish_pipeline_run,insert_task_audit
+from audit_utils import finish_pipeline_run,insert_task_audit,update_task_audit
 
 #thông tin liên quan đến nơi lưu trữ processed data (vị trí, tk,mk xác nhận kết nối)
 MINIO_ENDPOINT = os.getenv("MINIO_ENDPOINT","minio:9000")
@@ -44,7 +44,14 @@ def load_data(processed_file_minio:str):
         
         #lấy tất cả task trong cùng một pipeline có run_id chung
         process_run_id = process_metadata.get("process_run_id")
+        if not process_run_id:
+            raise ValueError("Missing process_run_id in processed_data")
         
+        insert_task_audit(
+            process_run_id=process_run_id,
+            task_name="load_data",
+            status="running"
+        )
         
         #tóm tắt chất lượng của tất cả products
         quality_report = processed_data.get("quality_report")
@@ -180,9 +187,10 @@ def load_data(processed_file_minio:str):
             invalid_price_negative,
             invalid_final_price_negative,
             final_price_greater_than_price,
+            missing_or_zero_price_with_final_price,
             duplicate_product_id
         )
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         ON CONFLICT (process_run_id)
         DO UPDATE SET
             total_products_seen = EXCLUDED.total_products_seen,
@@ -194,6 +202,7 @@ def load_data(processed_file_minio:str):
             invalid_price_negative = EXCLUDED.invalid_price_negative,
             invalid_final_price_negative = EXCLUDED.invalid_final_price_negative,
             final_price_greater_than_price = EXCLUDED.final_price_greater_than_price,
+            missing_or_zero_price_with_final_price = EXCLUDED.missing_or_zero_price_with_final_price,
             duplicate_product_id = EXCLUDED.duplicate_product_id;
         """ 
         #insert rejected products
@@ -239,6 +248,7 @@ def load_data(processed_file_minio:str):
                 quality_report.get("invalid_price_negative"),
                 quality_report.get("invalid_final_price_negative"),
                 quality_report.get("final_price_greater_than_price"),
+                quality_report.get("missing_or_zero_price_with_final_price"),
                 quality_report.get("duplicate_product_id"),
             )
         )
@@ -366,7 +376,7 @@ def load_data(processed_file_minio:str):
         
         conn.commit()
         #load trạng thái task va pipeline(có thể success)
-        insert_task_audit(
+        update_task_audit(
             process_run_id=process_run_id,
             task_name="load_data",
             status="success",
@@ -404,7 +414,7 @@ def load_data(processed_file_minio:str):
             conn.rollback()
         try:
             #load thông tin chi tiết về task va pipeline(kể cả có lỗi thì vẫn là thông tin xác nhận tốt xấu cho pipeline)
-            insert_task_audit(
+            update_task_audit(
                 process_run_id=process_run_id,
                 task_name="load_data",
                 status="failed",

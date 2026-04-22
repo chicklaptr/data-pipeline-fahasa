@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 from typing import Any,Dict,List,Optional,Tuple
 
-from audit_utils import insert_task_audit,upsert_pipeline_run,finish_pipeline_run
+from audit_utils import insert_task_audit,upsert_pipeline_run,finish_pipeline_run,update_task_audit
 from minio import Minio
 from playwright.sync_api import(
     Browser,
@@ -524,6 +524,11 @@ def crawl_raw_catalog_data() -> Dict[str,Any]:
         status="running",
         error_message=None
     )
+    insert_task_audit(
+        process_run_id=run_id,
+        task_name="crawl_data",
+        status="running"
+    )
     
     with sync_playwright()as p:
         browser=create_browser(p)
@@ -543,10 +548,20 @@ def crawl_raw_catalog_data() -> Dict[str,Any]:
             upload_file_to_minio(client, MINIO_BUCKET, raw_file, raw_object_name)
             upload_file_to_minio(client, MINIO_BUCKET, summary_file, summary_object_name)
             
+            upsert_pipeline_run(
+                process_run_id=run_id,
+                processed_at=summary.get("generated_at"),
+                source_name=SOURCE_NAME,
+                raw_file_minio=raw_object_name,
+                total_raw_records=summary.get("total_products",0),
+                status="running",
+                error_message=None
+            )
+            
             logger.info("===== CRAWL SUMMARY =====")
             logger.info(json.dumps(summary, ensure_ascii=False, indent=2))
             
-            insert_task_audit(
+            update_task_audit(
                 process_run_id=run_id,
                 task_name="crawl_data",
                 status="success",
@@ -564,13 +579,10 @@ def crawl_raw_catalog_data() -> Dict[str,Any]:
                 "summary": summary,
             }
         except Exception as e:
-            insert_task_audit(
+            update_task_audit(
                 process_run_id=run_id,
                 task_name="crawl_data",
                 status="failed",
-                records_in=0,
-                records_out=0,
-                records_rejected=0,
                 message=str(e)
             )
             finish_pipeline_run(

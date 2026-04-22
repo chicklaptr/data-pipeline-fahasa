@@ -82,11 +82,16 @@ def init_schema():
         total_raw_records INTEGER,
         loaded_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
         status TEXT,
-        started_at TIMESTAMP,
+        started_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
         finished_at TIMESTAMP,
         error_message TEXT
     );
     """)
+    
+    cur.execute("""
+        ALTER TABLE pipeline_runs
+        ADD COLUMN IF NOT EXISTS processed_file_minio TEXT;
+                """)
 
     cur.execute("""
     CREATE TABLE IF NOT EXISTS data_quality_reports(
@@ -100,10 +105,21 @@ def init_schema():
         invalid_price_negative INTEGER,
         invalid_final_price_negative INTEGER,
         final_price_greater_than_price INTEGER,
+        missing_or_zero_price_with_final_price INTEGER,
         duplicate_product_id INTEGER,
         FOREIGN KEY (process_run_id) REFERENCES pipeline_runs(process_run_id)
     );
     """)
+    
+    # cur.execute("""
+    #     ALTER TABLE data_quality_reports
+    #     ADD COLUMN IF NOT EXISTS missing_or_zero_price_with_final_price INTEGER;
+    #             """)
+    
+    # cur.execute("""
+    #     ALTER TABLE data_quality_reports
+    #     ADD COLUMN IF NOT EXISTS duplicate_product_id INTEGER;
+    #             """)
 
     cur.execute("""
     CREATE TABLE IF NOT EXISTS pipeline_task_audit(
@@ -115,7 +131,7 @@ def init_schema():
         records_out INTEGER,
         records_rejected INTEGER,
         message TEXT,
-        start_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        started_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
         finished_at TIMESTAMP
     );
     """)
