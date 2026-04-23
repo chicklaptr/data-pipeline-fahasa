@@ -68,9 +68,9 @@ Each pipeline run is tracked using:
 
 ## Future Improvements
 
-- Add automated testing
-- Improve incremental logic with hashing
-- Build dashboard (Metabase)
-- Add alerting (email/telegram)
+- Add automated testing -> prepare
+- Improve incremental logic with hashing -> prepare
+- Build dashboard (Metabase) -> doing
+- Add alerting (email/telegram) -> done
 
    
