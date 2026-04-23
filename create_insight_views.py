@@ -38,7 +38,7 @@ def create_insight_views():
     except Exception as e:
         if conn:
             conn.rollback()
-            print("Loi khi tao insight views: {e}")
+            print(f"Loi khi tao insight views: {e}")
             raise
     finally:
         if cur:

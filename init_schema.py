@@ -150,6 +150,17 @@ def init_schema():
         rejected_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
     """)
+    
+    cur.execute("""
+        CREATE TABLE IF NOT EXISTS pipeline_alerts(
+            alert_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+            process_run_id TEXT,
+            alert_level TEXT,
+            alert_type TEXT,
+            message TEXT,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        );
+        """)
 
     conn.commit()
     cur.close()
